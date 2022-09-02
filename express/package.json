@@ -1,0 +1,16 @@
+{
+  "name": "miraj",
+  "version": "1.0.0",
+  "description": "this is the package that i created while im studying or exploring node and express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Miraj Hossain",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^1.3.3",
+    "pug": "^3.0.2"
+  }
+}
